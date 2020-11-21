@@ -211,7 +211,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("file:///Users/137153/Downloads/test_r_2.png") top center;
+  background: url("../img/portfolio/test_r_2.png") top center;
   background-size: cover;
 }
 
